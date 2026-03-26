@@ -13,6 +13,12 @@ This project is a Java-based Order Management System designed to handle core bus
 ## Technologies Used
 - Java
 - Eclipse IDE
+  
+## Project Structure
+- Main.java – Application entry point
+- Product.java – Product model
+- Order.java – Order processing logic
+- Inventory.java – Inventory management
 
 ## Key Concepts Demonstrated
 - Object-Oriented Programming (OOP)
